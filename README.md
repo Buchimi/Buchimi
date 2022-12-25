@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **3d rendering, networking and graphics**
 
-- 👨‍💻 Here's my website [personal-website-buchimi.vercel.app](personal-website-buchimi.vercel.app)
+- 👨‍💻 Here's my website [personal-website-buchimi.vercel.app](https://personal-website-buchimi.vercel.app)
 
 - 💬 Ask me about **React, flutter and Rust**
 
