@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Michael.buuchi@gmail.com**
 
-- 📄 Know about my experiences [personal-website-buchimi.vercel.app/resume](personal-website-buchimi.vercel.app/resume)
+- 📄 Know about my experiences [personal-website-buchimi.vercel.app/resume](https://personal-website-buchimi.vercel.app/resume)
 
 - ⚡ Fun fact **I learned how to whistle through relentless practice**
 
