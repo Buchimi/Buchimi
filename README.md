@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Ugochukwu</h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I'm passionate about making software, low level systems and mobile apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buchimi&label=Profile%20views&color=850000&style=flat" alt="buchimi" /> </p>
