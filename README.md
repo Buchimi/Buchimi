@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=61808599)
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I'm passionate about making software, low level systems and mobile apps</h3>
 
@@ -31,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buchimi&show_icons=true&theme=synthwave&title_color=8c1eff&text_color=ff2975&locale=en" alt="buchimi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buchimi&theme=dark" alt="buchimi" /></p>
-![smth](https://hit.yhype.me/github/profile?user_id=61808599)
+
