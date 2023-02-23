@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=61808599)
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I'm passionate about making software, low level systems and mobile apps</h3>
+<h3 align="center">I'm passionate about making software, low level systems, mobile apps and Artificial intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buchimi&label=Profile%20views&color=850000&style=flat" alt="buchimi" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **3d rendering, networking and graphics**
 
-- 👨‍💻 Here's my website [personal-website-buchimi.vercel.app](https://personal-website-buchimi.vercel.app)
+- 👨‍💻 Here's my [website](https://personal-website-buchimi.vercel.app)
 
 - 💬 Ask me about **React, flutter and Rust**
 
